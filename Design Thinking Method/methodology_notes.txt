@@ -1,0 +1,22 @@
+Methodology Notes
+
+This study employs a qualitative conceptual research design conducted through desk research.
+No primary data collection, surveys, interviews, or experiments were undertaken.
+
+The analysis is structured using the Design Thinking framework, consisting of five stages:
+empathize, define, ideate, prototype, and test. These stages are applied as an analytical lens
+to interpret existing literature and documented case studies related to digital education
+and educational equity.
+
+Data sources include peer-reviewed journal articles, policy reports, and institutional
+publications focusing on digital learning, education access, and sustainable development.
+The case of Bridge International Academies is used as a comparative reference due to its
+documented application of technology-supported education in underserved contexts.
+
+Analytical procedures involve thematic synthesis and mapping of key issues, strategies,
+and insights from the reviewed sources to the stages of the Design Thinking framework.
+This process supports the development of a conceptual framework adapted to the Indonesian
+context.
+
+These notes are provided to document the analytical logic of the study and to support
+conceptual reproducibility.
